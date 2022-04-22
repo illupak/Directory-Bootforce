@@ -10,5 +10,5 @@ Directory brute force is used to find hidden and often forgotten directories on 
   <li>Dirbuster</li>
   <li>Wfuzz</li>
   <li>Metasploit</li>
-  <li>Dirserach</li>
+  <li>Dirsearch</li>
  </ul>
